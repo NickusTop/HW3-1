@@ -1,4 +1,4 @@
-let age = "13";
+let age = "14";
 let name = "Mykyta";
 let isStudent = false;
 let myString = "Допобачення!";
